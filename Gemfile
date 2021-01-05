@@ -5,4 +5,4 @@ source "https://rubygems.org"
 gem 'rake'
 gem 'pry'
 gem 'require_all'
-gem 'nokogiri'
+gem 'nokogiri', '>= 1.11.0'
